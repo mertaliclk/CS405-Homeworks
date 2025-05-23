@@ -13,13 +13,6 @@
 This repository contains my homework assignments for the Computer Graphics course (CS405) at Sabanci University. Each assignment focuses on different aspects of computer graphics, from basic concepts to advanced implementations.
 
 
-## 🎨 Visual Results
-
-<div align="center">
-  <img src="path/to/result1.png" alt="Result 1" width="400"/>
-  <img src="path/to/result2.png" alt="Result 2" width="400"/>
-</div>
-
 ## 📝 Notes
 
 - Each assignment is self-contained
@@ -36,7 +29,6 @@ Mert Ali Celik
 - **Course Code:** CS405
 - **Course Name:** Computer Graphics
 - **Institution:** Sabanci University
-- **Term:** [Term Information]
 
 ## 🙏 Acknowledgments
 
